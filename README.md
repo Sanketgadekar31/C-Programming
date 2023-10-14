@@ -1,7 +1,7 @@
 # Learning-C
 This is my revisionary C programming Repository.
 
-## IDE Used: VS Code
+## IDE Used: VS Code(https://code.visualstudio.com/)
 
 ## What is C?
 C is a computer programming language used to design computer software and applications.
