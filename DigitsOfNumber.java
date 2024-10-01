@@ -19,7 +19,7 @@ public class DigitsOfNumber {
 
         int div = (int)Math.pow(10, digit-1);
 
-        while (div != 0){
+        while (div != 0){               // 0 will be printed as well
             int q = n / div;
             System.out.println(q);
 
