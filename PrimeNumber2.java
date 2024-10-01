@@ -5,6 +5,7 @@
 //4. For the range print all the primes numbers between low and high (both included).
 
 import java.util.Scanner;
+
 public class PrimeNumber2 {
     public static void main(String [] args){
         Scanner sc = new Scanner(System.in);
